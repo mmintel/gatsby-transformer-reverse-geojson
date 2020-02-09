@@ -12,6 +12,7 @@
     "lodash": "^4.17.15",
     "node-fetch": "^2.6.0"
   },
+  "homepage": "https://github.com/mmintel/gatsby-transformer-reverse-geojson",
   "keywords": [
     "netlify",
     "netlify-cms",
