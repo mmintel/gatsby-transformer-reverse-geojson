@@ -1,6 +1,6 @@
 {
   "name": "gatsby-transformer-reverse-geojson",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "main": "index.js",
   "description": "Reverse geocodes frontmatter fields in GeoJSON format",
   "author": "Marc Mintel <marc@mintel.me> (@mmintel)",
