@@ -18,6 +18,8 @@
     "netlify-cms",
     "netlifycms",
     "gatsby",
+    "gatsby-plugin",
+    "gatsby-transformer-plugin",
     "geojson",
     "opencage"
   ]
