@@ -1,0 +1,23 @@
+{
+  "name": "gatsby-transformer-reverse-geojson",
+  "version": "0.0.0",
+  "main": "index.js",
+  "description": "Reverse geocodes frontmatter fields in GeoJSON format",
+  "author": "Marc Mintel <marc@mintel.me> (@mmintel)",
+  "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
+  "dependencies": {
+    "lodash": "^4.17.15",
+    "node-fetch": "^2.6.0"
+  },
+  "keywords": [
+    "netlify",
+    "netlify-cms",
+    "netlifycms",
+    "gatsby",
+    "geojson",
+    "opencage"
+  ]
+}
